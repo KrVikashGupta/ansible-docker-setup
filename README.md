@@ -4,7 +4,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-2.9+-blue?logo=ansible\&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github\&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) 
-![CI/CD](https://img.shields.io/badge/CI-CD-orange?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI-CD-orange?style=for-the-badge) 
 
 ---
 
