@@ -5,7 +5,7 @@ This guide creates a minimal Ansible setup with Docker Compose featuring one mas
 
 ## Prerequisites
 - Docker and Docker Compose installed
-- Basic understanding of Docker and Ansible
+- Basic understanding of Docker and Ansible                              
 
 ## Directory Structure
 ```
